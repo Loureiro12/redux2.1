@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "name": "André Loureiro",
+      "email": "contato.loureiro1@gamil.com",
+      "age": 20
+    },
+    {
+      "id": 1,
+      "name": "Rose Amaral",
+      "email": "roseAmaral@gamil.com",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Elizeu Gonçalves",
+      "email": "contato.loureiro1@gamil.com",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "Karoline Amaral",
+      "email": "Karoline1@gamil.com",
+      "age": 20
+    },
+    {
+      "id": 4,
+      "name": "Fabricio Cunha",
+      "email": "Cunha@gamil.com",
+      "age": 20
+    }
+  ]
+}
